@@ -1,0 +1,66 @@
+{
+  "users": [
+    {
+      "name": "Namit Jaitly",
+      "gender": "male",
+      "profileImg": "data:image/jpeg;base64,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",
+      "dob": "04/04/1999",
+      "age": 24,
+      "phone": "+1 (836)-605-5154",
+      "email": "Namit.Jaitly@softobiz.com",
+      "about": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book test test.",
+      "id": 1,
+      "hobbies": [
+        "Reading",
+        "Writing",
+        "Swimming"
+      ]
+    },
+    {
+      "email": "test@admin.com",
+      "name": "Test Name",
+      "profileImg": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAHcATwMBIgACEQEDEQH/xAAcAAEAAQUBAQAAAAAAAAAAAAAACAIEBQYHAwH/xAA3EAABAwMCBQEGBAQHAAAAAAABAAIDBAUREiEGBxMxUUEiMmFxgZEUM0KyUqGxwQgVFhcjJCX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/APeitIDR7Ky0FsG3srMU9GABsrxtOGjsqjFRW0Ae6sdfbxZuHWsN2qmwuk9xgaXOd8QAO3xWj8Xcwq6K5yR2mq6EYldC0uZ+WwbF2CN3E5PgAN2ySTz/AIku0t4uklTLUzVLWgRxyT41lo7Zxt5P1UV1K8czLHSQROtcT66R4JcCOmGeM53+y1X/AHTvOW5pKAgOJd7DvaGe3vbLQkQdPHNWI1rdVp00f6sSZk+nYd1vtkuVvv8AQirtsokYThzTs5jvDh6FRzV5bbnW2ycS0NVLA4EE9N5AOPOO6CQtVRgg7LX7jbg7Psr34C4sg4htsVNVzF11jaermPSH7nBB7ZxjPb5LO1tMD6Ko21lPoG4VFXAJaWaIuLQ9hbqHcZGMrJSBpGys62l/FUs0Bdp6jS3OM/ceo+CCLHFJ/wAxutdcoGMY10560Qfksd6nBA2J8ZwfXssCpJcQcsrJe6Yu6UNsrDgvnpGDScZ7tPz9MHyThR5u8VLBdKuK3TOmo453tglcN3sB2Jx8FFWaIiAiIg3HlZcX0fFVPEInStnyzDQNnHYOJ8DJ+67lVsyOy4/yR",
+      "age": 34,
+      "gender": "male",
+      "dob": "09/08/1987",
+      "phone": "+1 (888)-888-8888",
+      "about": "qqwerewq",
+      "hobbies": [
+        "Reading",
+        "Writing",
+        "Swimming"
+      ],
+      "id": 2
+    }
+  ],
+  "authorized": [
+    {
+      "name": "Namit",
+      "email": "namit@yopmail.com",
+      "password": "454146",
+      "token": "namit@yopmail.com.MyTokenSecretKeyIs_babyShark.4541466181811454146",
+      "id": 1
+    },
+    {
+      "name": "Admin",
+      "email": "admin@gmail.com",
+      "password": "123456",
+      "token": "admin@gmail.com.MyTokenSecretKeyIs_babyShark.1234566181811123456",
+      "id": 2
+    },
+    {
+      "name": "Alish",
+      "email": "Alish@yopmail.com",
+      "password": "111111",
+      "token": "Alish@yopmail.com.MyTokenSecretKeyIs_babyShark.1111116181811111111",
+      "id": 3
+    },
+    {
+      "name": "Armaan",
+      "email": "Armaan@yopmail.com",
+      "password": "123456",
+      "token": "Armaan@yopmail.com.MyTokenSecretKeyIs_babyShark.1234566181811123456",
+      "id": 4
+    }
+  ]
+}
