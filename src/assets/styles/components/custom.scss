@@ -1,0 +1,49 @@
+.grad-mix {
+  background: linear-gradient(
+    160deg,
+    rgba(100, 100, 100, 0) 40%,
+    rgba(255, 0, 98, 0.46) 40%
+  );
+}
+.dashboard-content {
+  width: calc(100% - 75px);
+  height: calc(100vh - 70px);
+  margin-left: 75px;
+}
+.profile-image {
+  @include circle(40px);
+  img {
+    object-fit: cover;
+    height: 100%;
+  }
+}
+.container {
+  max-width: 1320px;
+  width: 100%;
+  margin: 20px auto;
+  background-color: #e6f4f8;
+}
+.center-circle {
+  @include middle-absolute(50%);
+}
+.auth-caption {
+  max-width: 600px;
+  width: 100%;
+}
+.bottom-100 {
+  bottom: 100px;
+}
+.form-width {
+  width: 700px;
+}
+.profile-width {
+  width: 1000px;
+}
+.selected-checbox {
+  box-shadow: inset 0px 1px 2px rgba(73, 95, 131, 0.24), inset 0px 2px 4px rgba(62, 90, 135, 0.24);
+}
+.checkbox{
+  right: 20px;
+  width: 15px;
+  height: 15px;
+}

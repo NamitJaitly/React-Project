@@ -1,0 +1,5 @@
+export const PAGINATION={
+    LIMIT:10,
+    DASHBOARD_LIMIT: 5,
+    DEFAULT_OFFSET: 0
+}

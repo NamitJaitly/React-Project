@@ -1,0 +1,17 @@
+@mixin circle ($size) {
+    width: $size;
+    height: $size;
+    border-radius: 50%;
+    overflow: hidden;
+}
+@mixin square ($size) {
+    width: $size;
+    height: $size;
+    overflow: hidden;
+}
+@mixin middle-absolute ($position) {
+    position: absolute;
+    top: $position;
+    left: $position;
+    transform: translate(-$position, -$position);
+}

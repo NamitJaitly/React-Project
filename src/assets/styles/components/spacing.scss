@@ -1,0 +1,53 @@
+// Margin Loop
+@for $i from 0 through 100 {
+  .m-#{$i} {
+    margin: $i * $spacing !important;
+  }
+  .mt-#{$i} {
+    margin-top: $i * $spacing !important;
+  }
+  .mr-#{$i} {
+    margin-right: $i * $spacing !important;
+  }
+  .mb-#{$i} {
+    margin-bottom: $i * $spacing !important;
+  }
+  .ml-#{$i} {
+    margin-left: $i * $spacing !important;
+  }
+  .my-#{$i} {
+    margin-top: $i * $spacing !important;
+    margin-bottom: $i * $spacing !important;
+  }
+  .mx-#{$i} {
+    margin-right: $i * $spacing !important;
+    margin-left: $i * $spacing !important;
+  }
+}
+
+// Padding Loop
+@for $i from 0 through 100 {
+  .p-#{$i} {
+    padding: $i * $spacing !important;
+  }
+  .pt-#{$i} {
+    padding-top: $i * $spacing !important;
+  }
+  .pr-#{$i} {
+    padding-right: $i * $spacing !important;
+  }
+  .pb-#{$i} {
+    padding-bottom: $i * $spacing !important;
+  }
+  .pl-#{$i} {
+    padding-left: $i * $spacing !important;
+  }
+  .py-#{$i} {
+    padding-top: $i * $spacing !important;
+    padding-bottom: $i * $spacing !important;
+  }
+  .px-#{$i} {
+    padding-right: $i * $spacing !important;
+    padding-left: $i * $spacing !important;
+  }
+}
